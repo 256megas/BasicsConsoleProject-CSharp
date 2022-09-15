@@ -1,0 +1,14 @@
+C:\xampp\htdocs\C#\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.exe
+C:\xampp\htdocs\C#\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.deps.json
+C:\xampp\htdocs\C#\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.runtimeconfig.json
+C:\xampp\htdocs\C#\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.runtimeconfig.dev.json
+C:\xampp\htdocs\C#\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.dll
+C:\xampp\htdocs\C#\FirstConsoleProject\bin\Debug\netcoreapp3.1\FirstConsoleProject.pdb
+C:\xampp\htdocs\C#\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.csproj.AssemblyReference.cache
+C:\xampp\htdocs\C#\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\C#\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.AssemblyInfoInputs.cache
+C:\xampp\htdocs\C#\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.AssemblyInfo.cs
+C:\xampp\htdocs\C#\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\C#\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.dll
+C:\xampp\htdocs\C#\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.pdb
+C:\xampp\htdocs\C#\FirstConsoleProject\obj\Debug\netcoreapp3.1\FirstConsoleProject.genruntimeconfig.cache
