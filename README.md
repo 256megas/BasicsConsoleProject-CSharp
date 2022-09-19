@@ -1,3 +1,2 @@
-"# FirstConsoleProject-C-" 
 "# BasicsConsoleProject-CSharp" 
-"# BasicsConsoleProject-CSharp" 
+https://brackeys.com/ Tutorial
